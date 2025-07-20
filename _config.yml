@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yifan Zhang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "I am an Assistant Professor of Computer Science at Missouri State University, with research interests in deep learning, data mining, time series forecasting, and image restoration."
+repository               : "https://github.com/GRYGY1215/GRYGY1215.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yifan Zhang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Missouri State University"
   location         : "Springfield, MO, USA"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "yifan-zhang-992736151" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
