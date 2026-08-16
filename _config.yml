@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yifan Zhang"
-description              : "I am an Assistant Professor of Computer Science at Missouri State University, with research interests in deep learning, data mining, time series forecasting, and image restoration."
-repository               : "https://github.com/GRYGY1215/GRYGY1215.github.io"
+description              : "Assistant Professor of Computer Science at Missouri State University researching deep learning, time-series forecasting, image restoration, and computational biology."
+repository               : "GRYGY1215/GRYGY1215.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yifan Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Missouri State University"
+  bio              : "Assistant Professor of Computer Science at Missouri State University"
   location         : "Springfield, MO, USA"
-  employer         :
+  employer         : "Missouri State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=d4dmtPIAAAAJ&hl=en"
-  email            : "YifanZhang@missouristate.com"
+  email            : "yifanzhang@missouristate.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "GRYGY1215"
   google_plus      :
   keybase          :
   instagram        :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago
 
 
 # Plugins
