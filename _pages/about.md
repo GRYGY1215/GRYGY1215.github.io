@@ -40,9 +40,6 @@ You can view my [curriculum vitae](/assets/CV_Yifan_Zhang.pdf), browse my [Googl
 4. **Y. Zhang**, R. Wu, S. M. Dascalu, and F. C. Harris, Jr., “A Novel Extreme Adaptive GRU for Multivariate Time Series Forecasting,” *Scientific Reports*, vol. 14, article 2991, 2024. [doi:10.1038/s41598-024-53460-y](https://doi.org/10.1038/s41598-024-53460-y)
 5. **Y. Zhang**, R. Wu, S. M. Dascalu, and F. C. Harris, “Multi-Scale Transformer Pyramid Networks for Multivariate Time Series Forecasting,” *IEEE Access*, vol. 12, pp. 14731–14741, 2024. [doi:10.1109/ACCESS.2024.3357693](https://doi.org/10.1109/ACCESS.2024.3357693)
 6. **Y. Zhang**, D. Tran, T. Nguyen, et al., “A Robust and Accurate Single-Cell Data Trajectory Inference Method Using Ensemble Pseudotime,” *BMC Bioinformatics*, vol. 24, article 55, 2023. [doi:10.1186/s12859-023-05179-2](https://doi.org/10.1186/s12859-023-05179-2)
-7. X. Yang, **Y. Zhang**, T. Li, et al., “Image Super-Resolution Based on the Down-Sampling Iterative Module and Deep CNN,” *Circuits, Systems, and Signal Processing*, vol. 40, pp. 3437–3455, 2021. [doi:10.1007/s00034-020-01630-4](https://doi.org/10.1007/s00034-020-01630-4)
-8. X. Yang, **Y. Zhang**, Y. Guo, et al., “An Image Super-Resolution Deep Learning Network Based on Multi-Level Feature Extraction Module,” *Multimedia Tools and Applications*, vol. 80, pp. 7063–7075, 2021. [doi:10.1007/s11042-020-09958-4](https://doi.org/10.1007/s11042-020-09958-4)
-9. X. Yang, S. Zhu, D. Zhou, and **Y. Zhang**, “An Improved Target Tracking Algorithm Based on Spatio-Temporal Context Under Occlusions,” *Multidimensional Systems and Signal Processing*, vol. 31, pp. 329–344, 2020. [doi:10.1007/s11045-019-00664-5](https://doi.org/10.1007/s11045-019-00664-5)
 
 ## Conference Papers
 
@@ -52,8 +49,7 @@ You can view my [curriculum vitae](/assets/CV_Yifan_Zhang.pdf), browse my [Googl
 4. **Y. Zhang**, R. Wu, S. M. Dascalu, and F. C. Harris, Jr., “A User Study of Two Downstream Single-Cell Data Analysis Methods: Clustering and Trajectory Inference,” in *Information Technology—New Generations*, pp. 297–304, 2024.
 5. J. Cardoza-Aguilar, C. Milbourn, **Y. Zhang**, L. Yang, S. M. Dascalu, et al., “A Holistic Approach for Single-Cell Data Trajectory Inference Using Chromosome Physical Location and Ensemble Random Walk,” in *Information Technology—New Generations*, pp. 505–511, 2024.
 6. C. Lewis, D. Enriquez, L. Calabrese, **Y. Zhang**, et al., “Virtual Reality Multiplayer Interaction and Medical Patient Handoff Training and Assessment,” in *Information Technology—New Generations*, pp. 17–23, 2022.
-7. A. Cuellar, **Y. Zhang**, S. M. Dascalu, and F. C. Harris, Jr., “Social Media User Study 37,” in *Information Technology—New Generations*, vol. 1421, pp. 303–309, 2022.
-8. **Y. Zhang**, J. Li, A. Carlo, A. K. Manda, S. Hamshaw, S. M. Dascalu, F. C. Harris, Jr., and R. Wu, “Data Regression Framework for Time Series Data with Extreme Events,” in *2021 IEEE International Conference on Big Data (Big Data)*, pp. 5327–5336, 2021. [doi:10.1109/BigData52589.2021.9671387](https://doi.org/10.1109/BigData52589.2021.9671387)
+7. **Y. Zhang**, J. Li, A. Carlo, A. K. Manda, S. Hamshaw, S. M. Dascalu, F. C. Harris, Jr., and R. Wu, “Data Regression Framework for Time Series Data with Extreme Events,” in *2021 IEEE International Conference on Big Data (Big Data)*, pp. 5327–5336, 2021. [doi:10.1109/BigData52589.2021.9671387](https://doi.org/10.1109/BigData52589.2021.9671387)
 
 ## Preprints
 
